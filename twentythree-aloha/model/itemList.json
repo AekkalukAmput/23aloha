@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "img_name": "เสื้อ1",
+    "file_name": "105221.jpg",
+    "fabric_type": 1
+  },
+  {
+    "id": 2,
+    "img_name": "เสื้อ2",
+    "file_name": "105222.jpg",
+    "fabric_type": 1
+  },
+  {
+    "id": 3,
+    "img_name": "เสื้อ3",
+    "file_name": "105223.jpg",
+    "fabric_type": 1
+  },
+  {
+    "id": 4,
+    "img_name": "เสื้อ4",
+    "file_name": "italy1.jpg",
+    "fabric_type": 2
+  },
+  {
+    "id": 5,
+    "img_name": "เสื้อ5",
+    "file_name": "spun(44_)2.JPG",
+    "fabric_type": 3
+  },
+  {
+    "id": 6,
+    "img_name": "เสื้อ6",
+    "file_name": "spun(44_)3.JPG",
+    "fabric_type": 3
+  },
+  {
+    "id": 7,
+    "img_name": "เชิ้ตทูโทน#1",
+    "file_name": "1595484749786-DSC00644.JPG",
+    "fabric_type": 1
+  },
+  {
+    "id": 8,
+    "img_name": "เชิ้ตทูโทน#2",
+    "file_name": "1595484892659-DSC00647.JPG",
+    "fabric_type": 1
+  }
+]
